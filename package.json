@@ -1,0 +1,15 @@
+{
+  "name": "shoppinglistapp",
+  "version": "1.0.0",
+  "description": "It's my first app. A shopping list desktopApp",
+  "main": "main.js",
+  "scripts": {
+    "start":"electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gian N Cuello",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^2.0.2"
+  }
+}
